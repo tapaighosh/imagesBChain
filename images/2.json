@@ -1,0 +1,58 @@
+{
+  "name": "HellBound #2",
+  "symbol": "Hell",
+  "description": "Hell nft collection",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 2,
+  "collection": {
+    "name": "Ty Hell Collection",
+    "family": "Hell"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DBP6yyaexGyCqFC8miYMEge1ezXcxZABkN45GcC1ti79",
+        "share": 100
+      }
+    ]
+  }
+}
